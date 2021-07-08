@@ -1,6 +1,8 @@
 # E-commerce
 
-Test file for GitHub clone (Visual Studio Code) and Webscraping.
+Test file for GitHub clone (README. Visual Studio Code) and Webscraping.
+
+## Code for Data Cleaning (Attached).
 
 ## Scraping Smartphones
 
