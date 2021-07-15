@@ -6,6 +6,8 @@ Test file for GitHub clone (README. Visual Studio Code) and Webscraping.
 
 ## Scraping Smartphones
 
+## Final File with 8 products from Amazon - Web scraping.
+
 1-) create search_urls.txt which will contain all the product pages. You can use a for loop to change the page number.
 
 2-) Create search.yml which contains all the element paths from where the informations would be extracted.
